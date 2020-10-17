@@ -1,9 +1,0 @@
-{
-    "python.pythonPath": "C:\\Users\\Diego\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
-    "python.linting.pylintArgs": [
-        "--extension-pkg-whitelist=pygame"  // The extension is "lxml" not "1xml"
-    ],
-    "python.linting.enabled": true,
-    "python.linting.pylintEnabled": true,
-    "python.linting.flake8Enabled": false
-}
